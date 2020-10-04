@@ -53,8 +53,11 @@ for year, codes in books.items():
                     authors = listdecode(selector.xpath(XPATHS["authors"]).getall())
                     aff_indexes = []
                     for index, _ in enumerate(authors):
-                        aff_index = (listdecode(Selector(selector.xpath(XPATHS["aff_indexes"] + "[" + str(index + 1) + "]").get()).xpath('//li/text()').getall()))
-                        aff_indexes.append(aff_index)
+                        try:
+                            aff_index = (listdecode(Selector(selector.xpath(XPATHS["aff_indexes"] + "[" + str(index + 1) + "]").get()).xpath('//li/text()').getall()))
+                            aff_indexes.append(aff_index)
+                        except:
+                            pass
                     affiliations = {
                         "institutes": listdecode(selector.xpath(XPATHS["aff_institutes"]).getall()),
                         "cities": listdecode(selector.xpath(XPATHS["aff_cities"]).getall()),
