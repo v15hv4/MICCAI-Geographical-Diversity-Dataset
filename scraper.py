@@ -1,5 +1,6 @@
 from requests.exceptions import ConnectionError
 from unidecode import unidecode
+from datetime import datetime
 from parsel import Selector
 from requests import get
 from json import dump
@@ -19,8 +20,8 @@ host = "https://link.springer.com/"
 books = {
     # 2015: ["10.1007/978-3-319-24553-9"],
     # 2016: ["10.1007/978-3-319-46726-9", "10.1007/978-3-319-46720-7", "10.1007/978-3-319-46723-8"],
-    2017: ["10.1007/978-3-319-66182-7", "10.1007/978-3-319-66185-8"],
-    2018: ["10.1007/978-3-030-00928-1"],
+    # 2017: ["10.1007/978-3-319-66182-7", "10.1007/978-3-319-66185-8"],
+    # 2018: ["10.1007/978-3-030-00928-1"],
     2019: ["10.1007/978-3-030-32239-7"],
 }
 
@@ -41,7 +42,7 @@ for year, codes in books.items():
             print(f"Book: {idx + 1}/{len(codes)}")
             print(f"Paper count: {papers}")
 
-            papers = 2  # DEBUG
+            # papers = 2  # DEBUG
             for i in range(papers):
                 print(f"Paper: {i+1}/{papers}")
                 paper = f"{host}/chapter/{code}_{i+1}"
@@ -75,8 +76,11 @@ for year, codes in books.items():
             failed[year] = True
             print("Book failed! Written to logs.")
 
-with open("failure.log", "w") as failure_log:
+
+timestamp = datetime.now().strftime("%Y%m%d-%H%M%S")
+
+with open(f"failure-{timestamp}.log", "w") as failure_log:
     dump(failed, failure_log)
 
-with open("data.json", "w") as data_json:
+with open(f"data-{timestamp}.json", "w") as data_json:
     dump(data, data_json)
