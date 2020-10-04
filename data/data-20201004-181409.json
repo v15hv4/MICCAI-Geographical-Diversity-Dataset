@@ -1,0 +1,4144 @@
+{
+    "2019": [
+        {
+            "title": "Enhancing OCT Signal by Fusion of GANs: Improving Statistical Power of Glaucoma Clinical Trials",
+            "authors": [
+                "Georgios Lazaridis",
+                "Marco Lorenzi",
+                "Sebastien Ourselin",
+                "David Garway-Heath"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "University College London",
+                    "Universite Cote d'Azur, Inria Sophia Antipolis, Epione Research Project",
+                    "King's College London",
+                    "NIHR Biomedical Research Centre at Moorfields Eye Hospital NHS Foundation Trust",
+                    "University College London"
+                ],
+                "cities": [
+                    "London",
+                    "Nice",
+                    "London",
+                    "London",
+                    "London"
+                ],
+                "countries": [
+                    "UK",
+                    "France",
+                    "UK",
+                    "UK",
+                    "UK"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1",
+                    "3",
+                    "4"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "4",
+                    "5"
+                ]
+            ]
+        },
+        {
+            "title": "A Deep Reinforcement Learning Framework for Frame-by-Frame Plaque Tracking on Intravascular Optical Coherence Tomography Image",
+            "authors": [
+                "Gongning Luo",
+                "Suyu Dong",
+                "Kuanquan Wang",
+                "Dong Zhang",
+                "Yue Gao",
+                "Xin Chen",
+                "Henggui Zhang",
+                "Shuo Li"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Harbin Institute of Technology",
+                    "Western University",
+                    "Digital Imaging Group of London",
+                    "Tsinghua University",
+                    "Wuhan Asia Heart Hospital"
+                ],
+                "cities": [
+                    "Harbin",
+                    "London",
+                    "London",
+                    "Beijing",
+                    "Wuhan"
+                ],
+                "countries": [
+                    "China",
+                    "Canada",
+                    "Canada",
+                    "China",
+                    "China"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "2",
+                    "3"
+                ],
+                [
+                    "4"
+                ],
+                [
+                    "5"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "2",
+                    "3"
+                ]
+            ]
+        },
+        {
+            "title": "Multi-index Optic Disc Quantification via MultiTask Ensemble Learning",
+            "authors": [
+                "Rongchang Zhao",
+                "Zailiang Chen",
+                "Xiyao Liu",
+                "Beiji Zou",
+                "Shuo Li"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Central South University",
+                    "Hunan Engineering Research Center of Machine Vision and Intelligent Medicine",
+                    "Western University",
+                    "Digital Imaging Group of London"
+                ],
+                "cities": [
+                    "Changsha",
+                    "Changsha",
+                    "London",
+                    "London"
+                ],
+                "countries": [
+                    "China",
+                    "China",
+                    "Canada",
+                    "Canada"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "3",
+                    "4"
+                ]
+            ]
+        },
+        {
+            "title": "Retinal Abnormalities Recognition Using Regional Multitask Learning",
+            "authors": [
+                "Xin Wang",
+                "Lie Ju",
+                "Xin Zhao",
+                "Zongyuan Ge"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Airdoc LLC",
+                    "Monash University"
+                ],
+                "cities": [
+                    "Beijing",
+                    "Clayton"
+                ],
+                "countries": [
+                    "China",
+                    "Australia"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1",
+                    "2"
+                ]
+            ]
+        },
+        {
+            "title": "Unifying Structure Analysis and Surrogate-Driven Function Regression for Glaucoma OCT Image Screening",
+            "authors": [
+                "Xi Wang",
+                "Hao Chen",
+                "Luyang Luo",
+                "An-ran Ran",
+                "Poemen P. Chan",
+                "Clement C. Tham",
+                "Carol Y. Cheung",
+                "Pheng-Ann Heng"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "The Chinese University of Hong Kong",
+                    "Imsight Medical Technology, Co., Ltd.",
+                    "The Chinese University of Hong Kong",
+                    "Chinese Academy of Sciences"
+                ],
+                "cities": [
+                    "Hong Kong",
+                    "Shenzhen",
+                    "Hong Kong",
+                    "Shenzhen"
+                ],
+                "countries": [
+                    "China",
+                    "China",
+                    "China",
+                    "China"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "1",
+                    "4"
+                ]
+            ]
+        },
+        {
+            "title": "Evaluation of Retinal Image Quality Assessment Networks in Different Color-Spaces",
+            "authors": [
+                "Huazhu Fu",
+                "Boyang Wang",
+                "Jianbing Shen",
+                "Shanshan Cui",
+                "Yanwu Xu",
+                "Jiang Liu",
+                "Ling Shao"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Inception Institute of Artificial Intelligence",
+                    "Southern University of Science and Technology",
+                    "CAS"
+                ],
+                "cities": [
+                    "Abu Dhabi",
+                    "Shenzhen",
+                    "Ningbo"
+                ],
+                "countries": [
+                    "UAE",
+                    "China",
+                    "China"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "2",
+                    "3"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "3D Surface-Based Geometric and Topological Quantification of Retinal Microvasculature in OCT-Angiography via Reeb Analysis",
+            "authors": [
+                "Jiong Zhang",
+                "Amir H. Kashani",
+                "Yonggang Shi"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "University of Southern California (USC)",
+                    "University of Southern California (USC)"
+                ],
+                "cities": [
+                    "Los Angeles",
+                    "Los Angeles"
+                ],
+                "countries": [
+                    "USA",
+                    "USA"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Limited-Angle Diffuse Optical Tomography Image Reconstruction Using Deep Learning",
+            "authors": [
+                "Hanene Ben Yedder",
+                "Majid Shokoufi",
+                "Ben Cardoen",
+                "Farid Golnaraghi",
+                "Ghassan Hamarneh"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Simon Fraser University",
+                    "Simon Fraser University"
+                ],
+                "cities": [
+                    "Burnaby",
+                    "Surrey"
+                ],
+                "countries": [
+                    "Canada",
+                    "Canada"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Data-Driven Enhancement of Blurry Retinal Images via Generative Adversarial Networks",
+            "authors": [
+                "He Zhao",
+                "Bingyu Yang",
+                "Lvchen Cao",
+                "Huiqi Li"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Beijing Institute of Technology"
+                ],
+                "cities": [
+                    "Beijing"
+                ],
+                "countries": [
+                    "China"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Dual Encoding U-Net for Retinal Vessel Segmentation",
+            "authors": [
+                "Bo Wang",
+                "Shuang Qiu",
+                "Huiguang He"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "University of Chinese Academy of Sciences",
+                    "Chinese Academy of Sciences",
+                    "Chinese Academy of Sciences"
+                ],
+                "cities": [
+                    "Beijing",
+                    "Beijing",
+                    "Beijing"
+                ],
+                "countries": [
+                    "People's Republic of China",
+                    "People's Republic of China",
+                    "People's Republic of China"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1",
+                    "2",
+                    "3"
+                ]
+            ]
+        },
+        {
+            "title": "A Deep Learning Design for Improving Topology Coherence in Blood Vessel Segmentation",
+            "authors": [
+                "Ricardo J. Araujo",
+                "Jaime S. Cardoso",
+                "Helder P. Oliveira"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Campus da Faculdade de Engenharia da Universidade do Porto",
+                    "Faculdade de Ciencias da Universidade do Porto",
+                    "Faculdade de Engenharia da Universidade do Porto"
+                ],
+                "cities": [
+                    "Porto",
+                    "Porto",
+                    "Porto"
+                ],
+                "countries": [
+                    "Portugal",
+                    "Portugal",
+                    "Portugal"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "1",
+                    "3"
+                ],
+                [
+                    "1",
+                    "2"
+                ]
+            ]
+        },
+        {
+            "title": "Boundary and Entropy-Driven Adversarial Learning for Fundus Image Segmentation",
+            "authors": [
+                "Shujun Wang",
+                "Lequan Yu",
+                "Kang Li",
+                "Xin Yang",
+                "Chi-Wing Fu",
+                "Pheng-Ann Heng"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "The Chinese University of Hong Kong",
+                    "Chinese Academy of Sciences"
+                ],
+                "cities": [
+                    "Sha Tin",
+                    "Shenzhen"
+                ],
+                "countries": [
+                    "Hong Kong SAR, China",
+                    "China"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "1",
+                    "2"
+                ]
+            ]
+        },
+        {
+            "title": "Unsupervised Ensemble Strategy for Retinal Vessel Segmentation",
+            "authors": [
+                "Bo Liu",
+                "Lin Gu",
+                "Feng Lu"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Beihang University",
+                    "National Institute of Informatics",
+                    "Peng Cheng Laboratory",
+                    "Beihang University"
+                ],
+                "cities": [
+                    "Beijing",
+                    "Tokyo",
+                    "Shenzhen",
+                    "Beijing"
+                ],
+                "countries": [
+                    "China",
+                    "Japan",
+                    "China",
+                    "China"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1",
+                    "4"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1",
+                    "3",
+                    "4"
+                ]
+            ]
+        },
+        {
+            "title": "Fully Convolutional Boundary Regression for Retina OCT Segmentation",
+            "authors": [
+                "Yufan He",
+                "Aaron Carass",
+                "Yihao Liu",
+                "Bruno M. Jedynak",
+                "Sharon D. Solomon",
+                "Shiv Saidha",
+                "Peter A. Calabresi",
+                "Jerry L. Prince"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "The Johns Hopkins University",
+                    "The Johns Hopkins University",
+                    "Portland State University",
+                    "The Johns Hopkins University School of Medicine",
+                    "The Johns Hopkins University School of Medicine"
+                ],
+                "cities": [
+                    "Baltimore",
+                    "Baltimore",
+                    "Portland",
+                    "Baltimore",
+                    "Baltimore"
+                ],
+                "countries": [
+                    "USA",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "USA"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "4"
+                ],
+                [
+                    "5"
+                ],
+                [
+                    "5"
+                ],
+                [
+                    "1",
+                    "2"
+                ]
+            ]
+        },
+        {
+            "title": "PM-Net: Pyramid Multi-label Network for Joint Optic Disc and Cup Segmentation",
+            "authors": [
+                "Pengshuai Yin",
+                "Qingyao Wu",
+                "Yanwu Xu",
+                "Huaqing Min",
+                "Ming Yang",
+                "Yubing Zhang",
+                "Mingkui Tan"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "South China University of Technology",
+                    "Guangzhou Shiyuan Electronic Technology Company Limited",
+                    "Peng Cheng Laboratory",
+                    "Chinese Academy of Sciences"
+                ],
+                "cities": [
+                    "Guangzhou",
+                    "Guangzhou",
+                    "Shenzhen",
+                    "Ningbo"
+                ],
+                "countries": [
+                    "China",
+                    "China",
+                    "China",
+                    "China"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "4"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1",
+                    "3"
+                ]
+            ]
+        },
+        {
+            "title": "Biological Age Estimated from Retinal Imaging: A Novel Biomarker of Aging",
+            "authors": [
+                "Chi Liu",
+                "Wei Wang",
+                "Zhixi Li",
+                "Yu Jiang",
+                "Xiaotong Han",
+                "Jason Ha",
+                "Wei Meng",
+                "Mingguang He"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Sun Yat-sen University",
+                    "University of Technology Sydney",
+                    "Monash University",
+                    "Guangzhou Healgoo Interactive Medical Technology Co. Ltd.",
+                    "University of Melbourne",
+                    "Centre for Eye Research Australia"
+                ],
+                "cities": [
+                    "Guangzhou",
+                    "Sydney",
+                    "Clayton",
+                    "Guangzhou",
+                    "Melbourne",
+                    "Melbourne"
+                ],
+                "countries": [
+                    "China",
+                    "Australia",
+                    "Australia",
+                    "China",
+                    "Australia",
+                    "Australia"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "4"
+                ],
+                [
+                    "1",
+                    "5",
+                    "6"
+                ]
+            ]
+        },
+        {
+            "title": "Task Adaptive Metric Space for Medium-Shot Medical Image Classification",
+            "authors": [
+                "Xiang Jiang",
+                "Liqiang Ding",
+                "Mohammad Havaei",
+                "Andrew Jesson",
+                "Stan Matwin"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Dalhousie University",
+                    "Imagia Inc."
+                ],
+                "cities": [
+                    "Halifax",
+                    "Montreal"
+                ],
+                "countries": [
+                    "Canada",
+                    "Canada"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Two-Stream CNN with Loose Pair Training for Multi-modal AMD Categorization",
+            "authors": [
+                "Weisen Wang",
+                "Zhiyan Xu",
+                "Weihong Yu",
+                "Jianchun Zhao",
+                "Jingyuan Yang",
+                "Feng He",
+                "Zhikun Yang",
+                "Di Chen",
+                "Dayong Ding",
+                "Youxin Chen",
+                "Xirong Li"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Renmin University of China",
+                    "Renmin University of China",
+                    "Visionary Intelligence Ltd.",
+                    "Chinese Academy of Medical Sciences",
+                    "Peking Union Medical College Hospital"
+                ],
+                "cities": [
+                    "Beijing",
+                    "Beijing",
+                    "Beijing",
+                    "Beijing",
+                    "Beijing"
+                ],
+                "countries": [
+                    "China",
+                    "China",
+                    "China",
+                    "China",
+                    "China"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1",
+                    "2",
+                    "3"
+                ],
+                [
+                    "4",
+                    "5"
+                ],
+                [
+                    "4",
+                    "5"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "4",
+                    "5"
+                ],
+                [
+                    "4",
+                    "5"
+                ],
+                [
+                    "4",
+                    "5"
+                ],
+                [
+                    "4",
+                    "5"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "4",
+                    "5"
+                ],
+                [
+                    "1",
+                    "2",
+                    "3"
+                ]
+            ]
+        },
+        {
+            "title": "Deep Multi-label Classification in Affine Subspaces",
+            "authors": [
+                "Thomas Kurmann",
+                "Pablo Marquez-Neila",
+                "Sebastian Wolf",
+                "Raphael Sznitman"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "University of Bern",
+                    "University Hospital of Bern"
+                ],
+                "cities": [
+                    "Bern",
+                    "Bern"
+                ],
+                "countries": [
+                    "Switzerland",
+                    "Switzerland"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Multi-scale Microaneurysms Segmentation Using Embedding Triplet Loss",
+            "authors": [
+                "Mhd Hasan Sarhan",
+                "Shadi Albarqouni",
+                "Mehmet Yigitsoy",
+                "Nassir Navab",
+                "Abouzar Eslami"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Technical University of Munich",
+                    "Carl Zeiss Meditec AG",
+                    "Johns Hopkins University"
+                ],
+                "cities": [
+                    "Munich",
+                    "Munich",
+                    "Baltimore"
+                ],
+                "countries": [
+                    "Germany",
+                    "Germany",
+                    "USA"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1",
+                    "3"
+                ],
+                [
+                    "2"
+                ]
+            ]
+        },
+        {
+            "title": "A Divide-and-Conquer Approach Towards Understanding Deep Networks",
+            "authors": [
+                "Weilin Fu",
+                "Katharina Breininger",
+                "Roman Schaffert",
+                "Nishant Ravikumar",
+                "Andreas Maier"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Friedrich-Alexander University Erlangen-Nurnberg",
+                    "Erlangen Graduate School in Advanced Optical Technologies (SAOT)"
+                ],
+                "cities": [
+                    "Erlangen",
+                    "Erlangen"
+                ],
+                "countries": [
+                    "Germany",
+                    "Germany"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1",
+                    "2"
+                ]
+            ]
+        },
+        {
+            "title": "Multiclass Segmentation as Multitask Learning for Drusen Segmentation in Retinal Optical Coherence Tomography",
+            "authors": [
+                "Rhona Asgari",
+                "Jose Ignacio Orlando",
+                "Sebastian Waldstein",
+                "Ferdinand Schlanitz",
+                "Magdalena Baratsits",
+                "Ursula Schmidt-Erfurth",
+                "Hrvoje Bogunovic"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Medical University of Vienna"
+                ],
+                "cities": [
+                    "Vienna"
+                ],
+                "countries": [
+                    "Austria"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Active Appearance Model Induced Generative Adversarial Network for Controlled Data Augmentation",
+            "authors": [
+                "Jianfei Liu",
+                "Christine Shen",
+                "Tao Liu",
+                "Nancy Aguilera",
+                "Johnny Tam"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "National Institutes of Health"
+                ],
+                "cities": [
+                    "Bethesda"
+                ],
+                "countries": [
+                    "USA"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Biomarker Localization by Combining CNN Classifier and Generative Adversarial Network",
+            "authors": [
+                "Rong Zhang",
+                "Shuhan Tan",
+                "Ruixuan Wang",
+                "Siyamalan Manivannan",
+                "Jingjing Chen",
+                "Haotian Lin",
+                "Wei-Shi Zheng"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Sun Yat-sen University",
+                    "MOE",
+                    "University of Jaffna",
+                    "Sun Yat-sen University"
+                ],
+                "cities": [
+                    "Guangzhou",
+                    "Guangzhou",
+                    "Jaffna",
+                    "Guangzhou"
+                ],
+                "countries": [
+                    "China",
+                    "China",
+                    "Sri Lanka",
+                    "China"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "4"
+                ],
+                [
+                    "4"
+                ],
+                [
+                    "1",
+                    "2"
+                ]
+            ]
+        },
+        {
+            "title": "Probabilistic Atlases to Enforce Topological Constraints",
+            "authors": [
+                "Udaranga Wickramasinghe",
+                "Graham Knott",
+                "Pascal Fua"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Ecole Polytechnique Federale de Lausanne",
+                    "Ecole Polytechnique Federale de Lausanne"
+                ],
+                "cities": [
+                    "Lausanne",
+                    "Lausanne"
+                ],
+                "countries": [
+                    "Switzerland",
+                    "Switzerland"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Synapse-Aware Skeleton Generation for Neural Circuits",
+            "authors": [
+                "Brian Matejek",
+                "Donglai Wei",
+                "Xueying Wang",
+                "Jinglin Zhao",
+                "Kalman Palagyi",
+                "Hanspeter Pfister"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Harvard University",
+                    "Harvard University",
+                    "University of Szeged"
+                ],
+                "cities": [
+                    "Cambridge",
+                    "Cambridge",
+                    "Szeged"
+                ],
+                "countries": [
+                    "USA",
+                    "USA",
+                    "Hungary"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Seeing Under the Cover: A Physics Guided Learning Approach for In-bed Pose Estimation",
+            "authors": [
+                "Shuangjun Liu",
+                "Sarah Ostadabbas"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Northeastern University"
+                ],
+                "cities": [
+                    "Boston"
+                ],
+                "countries": [
+                    "USA"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "EDA-Net: Dense Aggregation of Deep and Shallow Information Achieves Quantitative Photoacoustic Blood Oxygenation Imaging Deep in Human Breast",
+            "authors": [
+                "Changchun Yang",
+                "Fei Gao"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "ShanghaiTech University"
+                ],
+                "cities": [
+                    "Shanghai"
+                ],
+                "countries": [
+                    "China"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Fused Detection of Retinal Biomarkers in OCT Volumes",
+            "authors": [
+                "Thomas Kurmann",
+                "Pablo Marquez-Neila",
+                "Siqing Yu",
+                "Marion Munk",
+                "Sebastian Wolf",
+                "Raphael Sznitman"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "University of Bern",
+                    "University Hospital of Bern"
+                ],
+                "cities": [
+                    "Bern",
+                    "Bern"
+                ],
+                "countries": [
+                    "Switzerland",
+                    "Switzerland"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Vessel-Net: Retinal Vessel Segmentation Under Multi-path Supervision",
+            "authors": [
+                "Yicheng Wu",
+                "Yong Xia",
+                "Yang Song",
+                "Donghao Zhang",
+                "Dongnan Liu",
+                "Chaoyi Zhang",
+                "Weidong Cai"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Northwestern Polytechnical University",
+                    "University of Sydney",
+                    "University of New South Wales"
+                ],
+                "cities": [
+                    "Xi'an",
+                    "Sydney",
+                    "Sydney"
+                ],
+                "countries": [
+                    "China",
+                    "Australia",
+                    "Australia"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2"
+                ]
+            ]
+        },
+        {
+            "title": "Ki-GAN: Knowledge Infusion Generative Adversarial Network for Photoacoustic Image Reconstruction ",
+            "authors": [
+                "Hengrong Lan",
+                "Kang Zhou",
+                "Changchun Yang",
+                "Jun Cheng",
+                "Jiang Liu",
+                "Shenghua Gao",
+                "Fei Gao"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "ShanghaiTech University",
+                    "Chinese Academy of Sciences",
+                    "Southern University of Science and Technology"
+                ],
+                "cities": [
+                    "Shanghai",
+                    "Ningbo",
+                    "Guangdong"
+                ],
+                "countries": [
+                    "China",
+                    "China",
+                    "China"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2",
+                    "3"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Uncertainty Guided Semi-supervised Segmentation of Retinal Layers in OCT Images",
+            "authors": [
+                "Suman Sedai",
+                "Bhavna Antony",
+                "Ravneet Rai",
+                "Katie Jones",
+                "Hiroshi Ishikawa",
+                "Joel Schuman",
+                "Wollstein Gadi",
+                "Rahil Garnavi"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "IBM Research - Australia",
+                    "NYU School of Medicine"
+                ],
+                "cities": [
+                    "Melbourne",
+                    "New York"
+                ],
+                "countries": [
+                    "Australia",
+                    "USA"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Triple ANet: Adaptive Abnormal-aware Attention Network for WCE Image Classification",
+            "authors": [
+                "Xiaoqing Guo",
+                "Yixuan Yuan"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "City University of Hong Kong"
+                ],
+                "cities": [
+                    "Kowloon"
+                ],
+                "countries": [
+                    "Hong Kong, China"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Selective Feature Aggregation Network with Area-Boundary Constraints for Polyp Segmentation",
+            "authors": [
+                "Yuqi Fang",
+                "Cheng Chen",
+                "Yixuan Yuan",
+                "Kai-yu Tong"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "The Chinese University of Hong Kong",
+                    "City University of Hong Kong"
+                ],
+                "cities": [
+                    "Sha Tin",
+                    "Kowloon Tong"
+                ],
+                "countries": [
+                    "Hong Kong",
+                    "Hong Kong"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Deep Sequential Mosaicking of Fetoscopic Videos",
+            "authors": [
+                "Sophia Bano",
+                "Francisco Vasconcelos",
+                "Marcel Tella Amo",
+                "George Dwyer",
+                "Caspar Gruijthuijsen",
+                "Jan Deprest",
+                "Sebastien Ourselin",
+                "Emmanuel Vander Poorten",
+                "Tom Vercauteren",
+                "Danail Stoyanov"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "University College London",
+                    "KU Leuven University",
+                    "King's College London",
+                    "University Hospital Leuven"
+                ],
+                "cities": [
+                    "London",
+                    "Leuven",
+                    "London",
+                    "Leuven"
+                ],
+                "countries": [
+                    "UK",
+                    "Belgium",
+                    "UK",
+                    "Belgium"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "4"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Landmark-Guided Deformable Image Registration for Supervised Autonomous Robotic Tumor Resection",
+            "authors": [
+                "Jiawei Ge",
+                "Hamed Saeidi",
+                "Justin D. Opfermann",
+                "Arjun S. Joshi",
+                "Axel Krieger"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "University of Maryland",
+                    "Children's National Health System",
+                    "George Washington University"
+                ],
+                "cities": [
+                    "College Park",
+                    "Washington, DC",
+                    "Washington, DC"
+                ],
+                "countries": [
+                    "USA",
+                    "USA",
+                    "USA"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Multi-view Learning with Feature Level Fusion for Cervical Dysplasia Diagnosis",
+            "authors": [
+                "Tingting Chen",
+                "Xinjun Ma",
+                "Xuechen Liu",
+                "Wenzhe Wang",
+                "Ruiwei Feng",
+                "Jintai Chen",
+                "Chunnv Yuan",
+                "Weiguo Lu",
+                "Danny Z. Chen",
+                "Jian Wu"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Zhejiang University",
+                    "Zhejiang University",
+                    "University of Notre Dame",
+                    "Zhejiang University",
+                    "Zhejiang University"
+                ],
+                "cities": [
+                    "Hangzhou",
+                    "Hangzhou",
+                    "Notre Dame",
+                    "Hangzhou",
+                    "Hangzhou"
+                ],
+                "countries": [
+                    "China",
+                    "China",
+                    "USA",
+                    "China",
+                    "China"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "5"
+                ],
+                [
+                    "4"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "1",
+                    "2"
+                ]
+            ]
+        },
+        {
+            "title": "Real-Time Surface Deformation Recovery from Stereo Videos",
+            "authors": [
+                "Haoyin Zhou",
+                "Jayender Jagadeesan"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Harvard Medical School"
+                ],
+                "cities": [
+                    "Boston"
+                ],
+                "countries": [
+                    "USA"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Rectified Cross-Entropy and Upper Transition Loss for Weakly Supervised Whole Slide Image Classifier",
+            "authors": [
+                "Hanbo Chen",
+                "Xiao Han",
+                "Xinjuan Fan",
+                "Xiaoying Lou",
+                "Hailing Liu",
+                "Junzhou Huang",
+                "Jianhua Yao"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Tencent AI Lab",
+                    "Sixth Affiliated Hospital of Sun Yat-sen University"
+                ],
+                "cities": [
+                    "Shenzhen",
+                    "Guangzhou"
+                ],
+                "countries": [
+                    "China",
+                    "China"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "From Whole Slide Imaging to Microscopy: Deep Microscopy Adaptation Network for Histopathology Cancer Image Classification",
+            "authors": [
+                "Yifan Zhang",
+                "Hanbo Chen",
+                "Ying Wei",
+                "Peilin Zhao",
+                "Jiezhang Cao",
+                "Xinjuan Fan",
+                "Xiaoying Lou",
+                "Hailing Liu",
+                "Jinlong Hou",
+                "Xiao Han",
+                "Jianhua Yao",
+                "Qingyao Wu",
+                "Mingkui Tan",
+                "Junzhou Huang"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "South China University of Technology",
+                    "Tencent AI Lab",
+                    "Sixth Affiliated Hospital of Sun Yat-sen University"
+                ],
+                "cities": [
+                    "Guangzhou",
+                    "Shenzhen",
+                    "Guangzhou"
+                ],
+                "countries": [
+                    "China",
+                    "China",
+                    "China"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ]
+            ]
+        },
+        {
+            "title": "Multi-scale Cell Instance Segmentation with Keypoint Graph Based Bounding Boxes",
+            "authors": [
+                "Jingru Yi",
+                "Pengxiang Wu",
+                "Qiaoying Huang",
+                "Hui Qu",
+                "Bo Liu",
+                "Daniel J. Hoeppner",
+                "Dimitris N. Metaxas"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Rutgers University",
+                    "JD Digits",
+                    "Lieber Institute for Brain Development"
+                ],
+                "cities": [
+                    "Piscataway",
+                    "Mountain View",
+                    "Baltimore"
+                ],
+                "countries": [
+                    "USA",
+                    "USA",
+                    "USA"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Improving Nuclei/Gland Instance Segmentation in Histopathology Images by Full Resolution Neural Network and Spatial Constrained Loss",
+            "authors": [
+                "Hui Qu",
+                "Zhennan Yan",
+                "Gregory M. Riedlinger",
+                "Subhajyoti De",
+                "Dimitris N. Metaxas"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Rutgers University",
+                    "SenseTime Research",
+                    "Rutgers Cancer Institute of New Jersey"
+                ],
+                "cities": [
+                    "Piscataway",
+                    "Shanghai",
+                    "New Brunswick"
+                ],
+                "countries": [
+                    "USA",
+                    "China",
+                    "USA"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Synthetic Augmentation and Feature-Based Filtering for Improved Cervical Histopathology Image Classification",
+            "authors": [
+                "Yuan Xue",
+                "Qianying Zhou",
+                "Jiarong Ye",
+                "L. Rodney Long",
+                "Sameer Antani",
+                "Carl Cornwell",
+                "Zhiyun Xue",
+                "Xiaolei Huang"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Pennsylvania State University",
+                    "Pennsylvania State University",
+                    "National Institutes of Health"
+                ],
+                "cities": [
+                    "University Park",
+                    "University Park",
+                    "Bethesda"
+                ],
+                "countries": [
+                    "USA",
+                    "USA",
+                    "USA"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Cell Tracking with Deep Learning for Cell Detection and Motion Estimation in Low-Frame-Rate",
+            "authors": [
+                "Junya Hayashida",
+                "Ryoma Bise"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Kyushu University"
+                ],
+                "cities": [
+                    "Fukuoka"
+                ],
+                "countries": [
+                    "Japan"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Accelerated ML-Assisted Tumor Detection in High-Resolution Histopathology Images",
+            "authors": [
+                "Nikolas Ioannou",
+                "Milos Stanisavljevic",
+                "Andreea Anghel",
+                "Nikolaos Papandreou",
+                "Sonali Andani",
+                "Jan Hendrik Ruschoff",
+                "Peter Wild",
+                "Maria Gabrani",
+                "Haralampos Pozidis"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "IBM Research - Zurich",
+                    "University Hospital Zurich",
+                    "University Hospital Frankfurt"
+                ],
+                "cities": [
+                    "Ruschlikon",
+                    "Zurich",
+                    "Frankfurt"
+                ],
+                "countries": [
+                    "Switzerland",
+                    "Switzerland",
+                    "Germany"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Pre-operative Overall Survival Time Prediction for Glioblastoma Patients Using Deep Learning on Both Imaging Phenotype and Genotype",
+            "authors": [
+                "Zhenyu Tang",
+                "Yuyun Xu",
+                "Zhicheng Jiao",
+                "Junfeng Lu",
+                "Lei Jin",
+                "Abudumijiti Aibaidula",
+                "Jinsong Wu",
+                "Qian Wang",
+                "Han Zhang",
+                "Dinggang Shen"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Beihang University",
+                    "University of North Carolina at Chapel Hill",
+                    "Hangzhou Medical College",
+                    "Neurosurgery Department of Huashan Hospital",
+                    "Shanghai Jiao Tong University"
+                ],
+                "cities": [
+                    "Beijing",
+                    "Chapel Hill",
+                    "Hangzhou",
+                    "Shanghai",
+                    "Shanghai"
+                ],
+                "countries": [
+                    "China",
+                    "USA",
+                    "China",
+                    "China",
+                    "China"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "4"
+                ],
+                [
+                    "4"
+                ],
+                [
+                    "4"
+                ],
+                [
+                    "4"
+                ],
+                [
+                    "5"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2"
+                ]
+            ]
+        },
+        {
+            "title": "Pathology-Aware Deep Network Visualization and Its Application in Glaucoma Image Synthesis",
+            "authors": [
+                "Xiaofei Wang",
+                "Mai Xu",
+                "Liu Li",
+                "Zulin Wang",
+                "Zhenyu Guan"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Beihang University",
+                    "Beihang University"
+                ],
+                "cities": [
+                    "Beijing",
+                    "Beijing"
+                ],
+                "countries": [
+                    "China",
+                    "China"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "CORAL8: Concurrent Object Regression for Area Localization in Medical Image Panels",
+            "authors": [
+                "Sam Maksoud",
+                "Arnold Wiliem",
+                "Kun Zhao",
+                "Teng Zhang",
+                "Lin Wu",
+                "Brian Lovell"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "The University of Queensland"
+                ],
+                "cities": [
+                    "Brisbane"
+                ],
+                "countries": [
+                    "Australia"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "ET-Net: A Generic Edge-aTtention Guidance Network for Medical Image Segmentation",
+            "authors": [
+                "Zhijie Zhang",
+                "Huazhu Fu",
+                "Hang Dai",
+                "Jianbing Shen",
+                "Yanwei Pang",
+                "Ling Shao"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Tianjin University",
+                    "Inception Institute of Artificial Intelligence"
+                ],
+                "cities": [
+                    "Tianjin",
+                    "Abu Dhabi"
+                ],
+                "countries": [
+                    "China",
+                    "UAE"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ]
+            ]
+        },
+        {
+            "title": "Instance Segmentation of Biomedical Images with an Object-Aware Embedding Learned with Local Constraints",
+            "authors": [
+                "Long Chen",
+                "Martin Strauch",
+                "Dorit Merhof"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "RWTH Aachen University"
+                ],
+                "cities": [
+                    "Aachen"
+                ],
+                "countries": [
+                    "Germany"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Diverse Multiple Prediction on Neuron Image Reconstruction",
+            "authors": [
+                "Ze Ye",
+                "Cong Chen",
+                "Changhe Yuan",
+                "Chao Chen"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Stony Brook University",
+                    "The City University of New York"
+                ],
+                "cities": [
+                    "Stony Brook",
+                    "New York"
+                ],
+                "countries": [
+                    "USA",
+                    "USA"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Deep Segmentation-Emendation Model for Gland Instance Segmentation",
+            "authors": [
+                "Yutong Xie",
+                "Hao Lu",
+                "Jianpeng Zhang",
+                "Chunhua Shen",
+                "Yong Xia"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Northwestern Polytechnical University",
+                    "University of Adelaide",
+                    "Research & Development Institute of Northwestern Polytechnical University in Shenzhen"
+                ],
+                "cities": [
+                    "Xi'an",
+                    "Adelaide",
+                    "Shenzhen"
+                ],
+                "countries": [
+                    "China",
+                    "Australia",
+                    "China"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1",
+                    "3"
+                ]
+            ]
+        },
+        {
+            "title": "Fast and Accurate Electron Microscopy Image Registration with 3D Convolution",
+            "authors": [
+                "Shenglong Zhou",
+                "Zhiwei Xiong",
+                "Chang Chen",
+                "Xuejin Chen",
+                "Dong Liu",
+                "Yueyi Zhang",
+                "Zheng-Jun Zha",
+                "Feng Wu"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "University of Science and Technology of China"
+                ],
+                "cities": [
+                    "Hefei"
+                ],
+                "countries": [
+                    "China"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "PlacentaNet: Automatic Morphological Characterization of Placenta Photos with Deep Learning",
+            "authors": [
+                "Yukun Chen",
+                "Chenyan Wu",
+                "Zhuomin Zhang",
+                "Jeffery A. Goldstein",
+                "Alison D. Gernand",
+                "James Z. Wang"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "The Pennsylvania State University",
+                    "Northwestern Memorial Hospital"
+                ],
+                "cities": [
+                    "University Park",
+                    "Chicago"
+                ],
+                "countries": [
+                    "USA",
+                    "USA"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Deep Multi-instance Learning for Survival Prediction from Whole Slide Images",
+            "authors": [
+                "Jiawen Yao",
+                "Xinliang Zhu",
+                "Junzhou Huang"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "The University of Texas at Arlington"
+                ],
+                "cities": [
+                    "Arlington"
+                ],
+                "countries": [
+                    "USA"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "High-Resolution Diabetic Retinopathy Image Synthesis Manipulated by Grading and Lesions",
+            "authors": [
+                "Yi Zhou",
+                "Xiaodong He",
+                "Shanshan Cui",
+                "Fan Zhu",
+                "Li Liu",
+                "Ling Shao"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Inception Institute of Artificial Intelligence"
+                ],
+                "cities": [
+                    "Abu Dhabi"
+                ],
+                "countries": [
+                    "UAE"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Deep Instance-Level Hard Negative Mining Model for Histopathology Images",
+            "authors": [
+                "Meng Li",
+                "Lin Wu",
+                "Arnold Wiliem",
+                "Kun Zhao",
+                "Teng Zhang",
+                "Brian Lovell"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "The University of Queensland"
+                ],
+                "cities": [
+                    "Brisbane"
+                ],
+                "countries": [
+                    "Australia"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Synthetic Patches, Real Images: Screening for Centrosome Aberrations in EM Images of Human Cancer Cells",
+            "authors": [
+                "Artem Lukoyanov",
+                "Isabella Haberbosch",
+                "Constantin Pape",
+                "Alwin Kramer",
+                "Yannick Schwab",
+                "Anna Kreshuk"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "European Molecular Biology Laboratory (EMBL)",
+                    "Smart Engines",
+                    "Clinical Cooperation Unit Molecular Hematology/Oncology, German Cancer Research Center (DKFZ)"
+                ],
+                "cities": [
+                    "Heidelberg",
+                    "Moscow",
+                    "Heidelberg"
+                ],
+                "countries": [
+                    "Germany",
+                    "Russia",
+                    "Germany"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "1",
+                    "3"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Patch Transformer for Multi-tagging Whole Slide Histopathology Images",
+            "authors": [
+                "Weijian Li",
+                "Viet-Duy Nguyen",
+                "Haofu Liao",
+                "Matt Wilder",
+                "Ke Cheng",
+                "Jiebo Luo"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "University of Rochester",
+                    "HistoWiz Inc."
+                ],
+                "cities": [
+                    "Rochester",
+                    "Brooklyn"
+                ],
+                "countries": [
+                    "USA",
+                    "USA"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Pancreatic Cancer Detection in Whole Slide Images Using Noisy Label Annotations",
+            "authors": [
+                "Han Le",
+                "Dimitris Samaras",
+                "Tahsin Kurc",
+                "Rajarsi Gupta",
+                "Kenneth Shroyer",
+                "Joel Saltz"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Stony Brook University",
+                    "Stony Brook Medicine",
+                    "Stony Brook University Hospital"
+                ],
+                "cities": [
+                    "Stony Brook",
+                    "Stony Brook",
+                    "Stony Brook"
+                ],
+                "countries": [
+                    "USA",
+                    "USA",
+                    "USA"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2",
+                    "3"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "2"
+                ]
+            ]
+        },
+        {
+            "title": "Encoding Histopathological WSIs Using GNN for Scalable Diagnostically Relevant Regions Retrieval",
+            "authors": [
+                "Yushan Zheng",
+                "Bonan Jiang",
+                "Jun Shi",
+                "Haopeng Zhang",
+                "Fengying Xie"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Beihang University",
+                    "Beihang University",
+                    "Beijing University of Technology",
+                    "Hefei University of Technology"
+                ],
+                "cities": [
+                    "Beijing",
+                    "Beijing",
+                    "Beijing",
+                    "Hefei"
+                ],
+                "countries": [
+                    "China",
+                    "China",
+                    "China",
+                    "China"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "4"
+                ],
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "1",
+                    "2"
+                ]
+            ]
+        },
+        {
+            "title": "Local and Global Consistency Regularized Mean Teacher for Semi-supervised Nuclei Classification",
+            "authors": [
+                "Hai Su",
+                "Xiaoshuang Shi",
+                "Jinzheng Cai",
+                "Lin Yang"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "University of Florida",
+                    "University of Florida"
+                ],
+                "cities": [
+                    "Gainesville",
+                    "Gainesville"
+                ],
+                "countries": [
+                    "USA",
+                    "USA"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1",
+                    "2"
+                ]
+            ]
+        },
+        {
+            "title": "Perceptual Embedding Consistency for Seamless Reconstruction of Tilewise Style Transfer",
+            "authors": [
+                "Amal Lahiani",
+                "Nassir Navab",
+                "Shadi Albarqouni",
+                "Eldad Klaiman"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Pathology and Tissue Analytics, Pharma Research and Early Development, Roche Innovation Center Munich",
+                    "Technische Universitat Munchen"
+                ],
+                "cities": [
+                    "Penzberg",
+                    "Munich"
+                ],
+                "countries": [
+                    "Germany",
+                    "Germany"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Precise Separation of Adjacent Nuclei Using a Siamese Neural Network",
+            "authors": [
+                "Miguel Luna",
+                "Mungi Kwon",
+                "Sang Hyun Park"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "DGIST"
+                ],
+                "cities": [
+                    "Daegu"
+                ],
+                "countries": [
+                    "South Korea"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "PFA-ScanNet: Pyramidal Feature Aggregation with Synergistic Learning for Breast Cancer Metastasis Analysis",
+            "authors": [
+                "Zixu Zhao",
+                "Huangjing Lin",
+                "Hao Chen",
+                "Pheng-Ann Heng"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "The Chinese University of Hong Kong",
+                    "Imsight Medical Technology, Co., Ltd.",
+                    "Chinese Academy of Sciences"
+                ],
+                "cities": [
+                    "Hong Kong",
+                    "Hong Kong",
+                    "Shenzhen"
+                ],
+                "countries": [
+                    "China",
+                    "China",
+                    "China"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1",
+                    "3"
+                ]
+            ]
+        },
+        {
+            "title": "DeepACE: Automated Chromosome Enumeration in Metaphase Cell Images Using Deep Convolutional Neural Networks",
+            "authors": [
+                "Li Xiao",
+                "Chunlong Luo",
+                "Yufan Luo",
+                "Tianqi Yu",
+                "Chan Tian",
+                "Jie Qiao",
+                "Yi Zhao"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Chinese Academy of Sciences",
+                    "Peking University Third Hospital",
+                    "University of Chinese Academy of Sciences (UCAS)"
+                ],
+                "cities": [
+                    "Beijing",
+                    "Beijing",
+                    "Beijing"
+                ],
+                "countries": [
+                    "China",
+                    "China",
+                    "China"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1",
+                    "3"
+                ],
+                [
+                    "1",
+                    "3"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Unsupervised Subtyping of Cholangiocarcinoma Using a Deep Clustering Convolutional Autoencoder",
+            "authors": [
+                "Hassan Muhammad",
+                "Carlie S. Sigel",
+                "Gabriele Campanella",
+                "Thomas Boerner",
+                "Linda M. Pak",
+                "Stefan Buttner",
+                "Jan N. M. IJzermans",
+                "Bas Groot Koerkamp",
+                "Michael Doukas",
+                "William R. Jarnagin",
+                "Amber L. Simpson",
+                "Thomas J. Fuchs"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Memorial Sloan Kettering Cancer Center",
+                    "Weill Cornell Medicine",
+                    "Erasmus Medical Center-Rotterdam",
+                    "Queen's University"
+                ],
+                "cities": [
+                    "New York",
+                    "New York",
+                    "Rotterdam",
+                    "Kingston"
+                ],
+                "countries": [
+                    "USA",
+                    "USA",
+                    "The Netherlands",
+                    "Canada"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "4"
+                ],
+                [
+                    "1",
+                    "2"
+                ]
+            ]
+        },
+        {
+            "title": "Evidence Localization for Pathology Images Using Weakly Supervised Learning",
+            "authors": [
+                "Yongxiang Huang",
+                "Albert C. S. Chung"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "The Hong Kong University of Science and Technology"
+                ],
+                "cities": [
+                    "Hong Kong"
+                ],
+                "countries": [
+                    "China"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Nuclear Instance Segmentation Using a Proposal-Free Spatially Aware Deep Learning Framework",
+            "authors": [
+                "Navid Alemi Koohbanani",
+                "Mostafa Jahanifar",
+                "Ali Gooya",
+                "Nasir Rajpoot"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "University of Warwick",
+                    "NRP Co.",
+                    "The Alan Turing Institute",
+                    "University of Leeds"
+                ],
+                "cities": [
+                    "Coventry",
+                    "Tehran",
+                    "London",
+                    "Leeds"
+                ],
+                "countries": [
+                    "UK",
+                    "Iran",
+                    "UK",
+                    "UK"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1",
+                    "3"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "4"
+                ],
+                [
+                    "1",
+                    "3"
+                ]
+            ]
+        },
+        {
+            "title": "GAN-Based Image Enrichment in Digital Pathology Boosts Segmentation Accuracy",
+            "authors": [
+                "Laxmi Gupta",
+                "Barbara M. Klinkhammer",
+                "Peter Boor",
+                "Dorit Merhof",
+                "Michael Gadermayr"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "RWTH Aachen University",
+                    "University Hospital Aachen, RWTH Aachen University",
+                    "Salzburg University of Applied Sciences"
+                ],
+                "cities": [
+                    "Aachen",
+                    "Aachen",
+                    "Salzburg"
+                ],
+                "countries": [
+                    "Germany",
+                    "Germany",
+                    "Austria"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1",
+                    "3"
+                ]
+            ]
+        },
+        {
+            "title": "IRNet: Instance Relation Network for Overlapping Cervical Cell Segmentation",
+            "authors": [
+                "Yanning Zhou",
+                "Hao Chen",
+                "Jiaqi Xu",
+                "Qi Dou",
+                "Pheng-Ann Heng"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "The Chinese University of Hong Kong",
+                    "Imsight Medical Technology, Co., Ltd.",
+                    "Imperial College London",
+                    "Chinese Academy of Sciences"
+                ],
+                "cities": [
+                    "Hong Kong SAR",
+                    "Hong Kong SAR",
+                    "London",
+                    "Shenzhen"
+                ],
+                "countries": [
+                    "China",
+                    "China",
+                    "UK",
+                    "China"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "1",
+                    "4"
+                ]
+            ]
+        },
+        {
+            "title": "Weakly Supervised Cell Instance Segmentation by Propagating from Detection Response",
+            "authors": [
+                "Kazuya Nishimura",
+                "Dai Fei Elmer Ker",
+                "Ryoma Bise"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Kyushu University",
+                    "The Chinese University of Hong Kong"
+                ],
+                "cities": [
+                    "Fukuoka",
+                    "Hong Kong"
+                ],
+                "countries": [
+                    "Japan",
+                    "China"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Robust Non-negative Tensor Factorization, Diffeomorphic Motion Correction, and Functional Statistics to Understand Fixation in Fluorescence Microscopy",
+            "authors": [
+                "Neel Dey",
+                "Jeffrey Messinger",
+                "R. Theodore Smith",
+                "Christine A. Curcio",
+                "Guido Gerig"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "New York University",
+                    "University of Alabama at Birmingham",
+                    "Icahn School of Medicine at Mount Sinai"
+                ],
+                "cities": [
+                    "Brooklyn",
+                    "Birmingham",
+                    "New York"
+                ],
+                "countries": [
+                    "USA",
+                    "USA",
+                    "USA"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "ConCORDe-Net: Cell Count Regularized Convolutional Neural Network for Cell Detection in Multiplex Immunohistochemistry Images",
+            "authors": [
+                "Yeman Brhane Hagos",
+                "Priya Lakshmi Narayanan",
+                "Ayse U. Akarca",
+                "Teresa Marafioti",
+                "Yinyin Yuan"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "The Institute of Cancer Research",
+                    "University College London"
+                ],
+                "cities": [
+                    "London",
+                    "London"
+                ],
+                "countries": [
+                    "UK",
+                    "UK"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Multi-task Learning of a Deep K-Nearest Neighbour Network for Histopathological Image Classification and Retrieval",
+            "authors": [
+                "Tingying Peng",
+                "Melanie Boxberg",
+                "Wilko Weichert",
+                "Nassir Navab",
+                "Carsten Marr"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Technical University of Munich",
+                    "Technical University of Munich",
+                    "Institute of Computational Biology, Helmholtz Zentrum Munchen - German Research Center for Environmental Health",
+                    "Johns Hopkins University"
+                ],
+                "cities": [
+                    "Munich",
+                    "Munich",
+                    "Munich",
+                    "Baltimore"
+                ],
+                "countries": [
+                    "Germany",
+                    "Germany",
+                    "Germany",
+                    "USA"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1",
+                    "3"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1",
+                    "4"
+                ],
+                [
+                    "3"
+                ]
+            ]
+        },
+        {
+            "title": "Multiclass Deep Active Learning for Detecting Red Blood Cell Subtypes in Brightfield Microscopy",
+            "authors": [
+                "Ario Sadafi",
+                "Niklas Koehler",
+                "Asya Makhro",
+                "Anna Bogdanova",
+                "Nassir Navab",
+                "Carsten Marr",
+                "Tingying Peng"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Helmholtz Zentrum Munchen - German Research Center for Environmental Health",
+                    "Technische Universitat Munchen",
+                    "Arivis AG",
+                    "University of Zurich",
+                    "Johns Hopkins University"
+                ],
+                "cities": [
+                    "Munich",
+                    "Munich",
+                    "Munich",
+                    "Zurich",
+                    "Baltimore"
+                ],
+                "countries": [
+                    "Germany",
+                    "Germany",
+                    "Germany",
+                    "Switzerland",
+                    "USA"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1",
+                    "2",
+                    "3"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "4"
+                ],
+                [
+                    "4"
+                ],
+                [
+                    "2",
+                    "5"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1",
+                    "2"
+                ]
+            ]
+        },
+        {
+            "title": "Enhanced Cycle-Consistent Generative Adversarial Network for Color Normalization of H&E Stained Images",
+            "authors": [
+                "Niyun Zhou",
+                "De Cai",
+                "Xiao Han",
+                "Jianhua Yao"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Tencent AI Lab"
+                ],
+                "cities": [
+                    "Shenzhen"
+                ],
+                "countries": [
+                    "China"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Nuclei Segmentation in Histopathological Images Using Two-Stage Learning",
+            "authors": [
+                "Qingbo Kang",
+                "Qicheng Lao",
+                "Thomas Fevens"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Concordia University"
+                ],
+                "cities": [
+                    "Montreal"
+                ],
+                "countries": [
+                    "Canada"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "ACE-Net: Biomedical Image Segmentation with Augmented Contracting and Expansive Paths",
+            "authors": [
+                "Yanhao Zhu",
+                "Zhineng Chen",
+                "Shuai Zhao",
+                "Hongtao Xie",
+                "Wenming Guo",
+                "Yongdong Zhang"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Beijing University of Posts and Telecommunications",
+                    "Chinese Academy of Sciences",
+                    "University of Science and Technology of China"
+                ],
+                "cities": [
+                    "Beijing",
+                    "Beijing",
+                    "Hefei"
+                ],
+                "countries": [
+                    "China",
+                    "China",
+                    "China"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "3"
+                ]
+            ]
+        },
+        {
+            "title": "CS-Net: Channel and Spatial Attention Network for Curvilinear Structure Segmentation",
+            "authors": [
+                "Lei Mou",
+                "Yitian Zhao",
+                "Li Chen",
+                "Jun Cheng",
+                "Zaiwang Gu",
+                "Huaying Hao",
+                "Hong Qi",
+                "Yalin Zheng",
+                "Alejandro Frangi",
+                "Jiang Liu"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Wuhan University of Science and Technology",
+                    "Chinese Academy of Sciences",
+                    "Peking University Third Hospital",
+                    "University of Liverpool",
+                    "University of Leeds",
+                    "Southern University of Science and Technology"
+                ],
+                "cities": [
+                    "Wuhan",
+                    "Ningbo",
+                    "Beijing",
+                    "Liverpool",
+                    "Leeds",
+                    "Shenzhen"
+                ],
+                "countries": [
+                    "China",
+                    "China",
+                    "China",
+                    "UK",
+                    "UK",
+                    "China"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "4"
+                ],
+                [
+                    "2",
+                    "5"
+                ],
+                [
+                    "2",
+                    "6"
+                ]
+            ]
+        },
+        {
+            "title": "PseudoEdgeNet: Nuclei Segmentation only with Point Annotations",
+            "authors": [
+                "Inwan Yoo",
+                "Donggeun Yoo",
+                "Kyunghyun Paeng"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Lunit Inc."
+                ],
+                "cities": [
+                    "Seoul"
+                ],
+                "countries": [
+                    "South Korea"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Adversarial Domain Adaptation and Pseudo-Labeling for Cross-Modality Microscopy Image Quantification",
+            "authors": [
+                "Fuyong Xing",
+                "Tell Bennett",
+                "Debashis Ghosh"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "University of Colorado Anschutz Medical Campus",
+                    "University of Colorado Anschutz Medical Campus",
+                    "University of Colorado Anschutz Medical Campus"
+                ],
+                "cities": [
+                    "Aurora",
+                    "Aurora",
+                    "Aurora"
+                ],
+                "countries": [
+                    "USA",
+                    "USA",
+                    "USA"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "2",
+                    "3"
+                ],
+                [
+                    "1",
+                    "2"
+                ]
+            ]
+        },
+        {
+            "title": "Progressive Learning for Neuronal Population Reconstruction from Optical Microscopy Images",
+            "authors": [
+                "Jie Zhao",
+                "Xuejin Chen",
+                "Zhiwei Xiong",
+                "Dong Liu",
+                "Junjie Zeng",
+                "Yueyi Zhang",
+                "Zheng-Jun Zha",
+                "Guoqiang Bi",
+                "Feng Wu"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "University of Science and Technology of China"
+                ],
+                "cities": [
+                    "Hefei"
+                ],
+                "countries": [
+                    "China"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Whole-Sample Mapping of Cancerous and Benign Tissue Properties",
+            "authors": [
+                "Lydia Neary-Zajiczek",
+                "Clara Essmann",
+                "Neil Clancy",
+                "Aiman Haider",
+                "Elena Miranda",
+                "Michael Shaw",
+                "Amir Gander",
+                "Brian Davidson",
+                "Delmiro Fernandez-Reyes",
+                "Vijay Pawar",
+                "Danail Stoyanov"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Wellcome/EPSRC Centre for Surgical and Interventional Sciences (WEISS)",
+                    "UCL TouchLab",
+                    "UCLH",
+                    "UCL Cancer Research Biobank",
+                    "National Physical Laboratory",
+                    "UCL Department of Surgical Biotechnology"
+                ],
+                "cities": [
+                    "London",
+                    "London",
+                    "London",
+                    "London",
+                    "Teddington",
+                    "London"
+                ],
+                "countries": [
+                    "UK",
+                    "UK",
+                    "UK",
+                    "UK",
+                    "UK",
+                    "UK"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "3"
+                ],
+                [
+                    "4"
+                ],
+                [
+                    "2",
+                    "5"
+                ],
+                [
+                    "6"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Multi-task Neural Networks with Spatial Activation for Retinal Vessel Segmentation and Artery/Vein Classification",
+            "authors": [
+                "Wenao Ma",
+                "Shuang Yu",
+                "Kai Ma",
+                "Jiexiang Wang",
+                "Xinghao Ding",
+                "Yefeng Zheng"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Youtu Lab, Tencent",
+                    "Xiamen University"
+                ],
+                "cities": [
+                    "Shenzhen",
+                    "Xiamen"
+                ],
+                "countries": [
+                    "China",
+                    "China"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1",
+                    "2"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Fine-Scale Vessel Extraction in Fundus Images by Registration with Fluorescein Angiography",
+            "authors": [
+                "Kyoung Jin Noh",
+                "Sang Jun Park",
+                "Soochahn Lee"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Seoul National University College of Medicine, Seoul National University Bundang Hospital",
+                    "Kookmin University"
+                ],
+                "cities": [
+                    "Seongnam",
+                    "Seoul"
+                ],
+                "countries": [
+                    "Korea",
+                    "Korea"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ]
+            ]
+        },
+        {
+            "title": "DME-Net: Diabetic Macular Edema Grading by Auxiliary Task Learning",
+            "authors": [
+                "Xiaodong He",
+                "Yi Zhou",
+                "Boyang Wang",
+                "Shanshan Cui",
+                "Ling Shao"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Inception Institute of Artificial Intelligence (IIAI)"
+                ],
+                "cities": [
+                    "Abu Dhabi"
+                ],
+                "countries": [
+                    "United Arab Emirates"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        },
+        {
+            "title": "Attention Guided Network for Retinal Image Segmentation",
+            "authors": [
+                "Shihao Zhang",
+                "Huazhu Fu",
+                "Yuguang Yan",
+                "Yubing Zhang",
+                "Qingyao Wu",
+                "Ming Yang",
+                "Mingkui Tan",
+                "Yanwu Xu"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "South China University of Technology",
+                    "Inception Institute of Artificial Intelligence",
+                    "Peng Cheng Laboratory",
+                    "CVTE Research",
+                    "Chinese Academy of Sciences"
+                ],
+                "cities": [
+                    "Guangzhou",
+                    "Abu Dhabi",
+                    "Shenzhen",
+                    "Guangzhou",
+                    "Ningbo"
+                ],
+                "countries": [
+                    "China",
+                    "UAE",
+                    "China",
+                    "China",
+                    "China"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "2"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "4"
+                ],
+                [
+                    "1"
+                ],
+                [
+                    "4"
+                ],
+                [
+                    "1",
+                    "3"
+                ],
+                [
+                    "5"
+                ]
+            ]
+        },
+        {
+            "title": "An Unsupervised Domain Adaptation Approach to Classification of Stem Cell-Derived Cardiomyocytes",
+            "authors": [
+                "Carolina Pacheco",
+                "Rene Vidal"
+            ],
+            "affiliations": {
+                "institutes": [
+                    "Johns Hopkins University"
+                ],
+                "cities": [
+                    "Baltimore"
+                ],
+                "countries": [
+                    "USA"
+                ]
+            },
+            "affiliations_index": [
+                [
+                    "1"
+                ],
+                [
+                    "1"
+                ]
+            ]
+        }
+    ]
+}

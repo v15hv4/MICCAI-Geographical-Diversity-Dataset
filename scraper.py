@@ -10,7 +10,7 @@ XPATHS = {
     "papercount": "//span[@data-test='no-of-chapters']/text()",
     "papertitle": "//h1[@class='ChapterTitle']/text()",
     "authors": "//span[@class='authors-affiliations__name']/text()",
-    "aff_indexes": "//ul[@class='authors-affiliations__indexes']/text()",
+    "aff_indexes": "(//ul[@class='authors-affiliations__indexes u-inline-list'])",
     "aff_institutes": "//span[@class='affiliation__name']/text()",
     "aff_cities": "//span[@class='affiliation__city']/text()",
     "aff_countries": "//span[@class='affiliation__country']/text()",
@@ -42,7 +42,7 @@ for year, codes in books.items():
             print(f"Book: {idx + 1}/{len(codes)}")
             print(f"Paper count: {papers}")
 
-            # papers = 2  # DEBUG
+            # papers = 2  
             for i in range(papers):
                 print(f"Paper: {i+1}/{papers}")
                 paper = f"{host}/chapter/{code}_{i+1}"
@@ -50,7 +50,10 @@ for year, codes in books.items():
                     selector = Selector(text=get(paper).text)
                     title = unidecode(selector.xpath(XPATHS["papertitle"]).get())
                     authors = listdecode(selector.xpath(XPATHS["authors"]).getall())
-                    aff_indexes = listdecode(selector.xpath(XPATHS["aff_indexes"]).getall())
+                    aff_indexes = []
+                    for index, _ in enumerate(authors):
+                        aff_index = (listdecode(Selector(selector.xpath(XPATHS["aff_indexes"] + "[" + str(index + 1) + "]").get()).xpath('//li/text()').getall()))
+                        aff_indexes.append(aff_index)
                     affiliations = {
                         "institutes": listdecode(selector.xpath(XPATHS["aff_institutes"]).getall()),
                         "cities": listdecode(selector.xpath(XPATHS["aff_cities"]).getall()),
@@ -61,6 +64,7 @@ for year, codes in books.items():
                             "title": title,
                             "authors": authors,
                             "affiliations": affiliations,
+                            "affiliations_index": aff_indexes,
                         }
                     )
                     print("Done.")
@@ -79,8 +83,8 @@ for year, codes in books.items():
 
 timestamp = datetime.now().strftime("%Y%m%d-%H%M%S")
 
-with open(f"failure-{timestamp}.log", "w") as failure_log:
+with open(f"data/failure-{timestamp}.log", "w") as failure_log:
     dump(failed, failure_log)
 
-with open(f"data-{timestamp}.json", "w") as data_json:
-    dump(data, data_json)
+with open(f"data/data-{timestamp}.json", "w") as data_json:
+    dump(data, data_json, indent=4, separators=(',', ': '))
