@@ -6,7 +6,7 @@
         <link rel="stylesheet" href="css/styles.css?v=1.0">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     </head>
-    <body>
+    <body class="container-fluid">
         <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
             <a class="navbar-brand" href="#"> MICCAI Hackathon 2020 </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
@@ -18,8 +18,62 @@
                 </span>
             </div>
         </nav>
+        <div class="row">
+            <div class="col-10">
+                <nav id="tabbar" class="navbar navbar-expand-lg navbar-light">
+                    <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+                        <ul class="navbar-nav mr-auto mt-2 mt-lg-0 font-weight-bold">
+                            <li id="t2020" class="nav-item active">
+                                <a class="nav-link" href="#" onclick="switchTab(2020)">2020</a>
+                            </li>
+                            <li id="t2019" class="nav-item">
+                                <a class="nav-link" href="#" onclick="switchTab(2019)">2019</a>
+                            </li>
+                            <li id="t2018" class="nav-item">
+                                <a class="nav-link" href="#" onclick="switchTab(2018)">2018</a>
+                            </li>
+                            <li id="t2017" class="nav-item">
+                                <a class="nav-link" href="#" onclick="switchTab(2017)">2017</a>
+                            </li>
+                            <li id="t2016" class="nav-item">
+                                <a class="nav-link" href="#" onclick="switchTab(2016)">2016</a>
+                            </li>
+                            <li id="t2015" class="nav-item">
+                                <a class="nav-link" href="#" onclick="switchTab(2015)">2015</a>
+                            </li>
+                            <li id="t2014" class="nav-item">
+                                <a class="nav-link" href="#" onclick="switchTab(2014)">2014</a>
+                            </li>
+                            <li id="t2013" class="nav-item">
+                                <a class="nav-link" href="#" onclick="switchTab(2013)">2013</a>
+                            </li>
+                            <li id="t2012" class="nav-item">
+                                <a class="nav-link" href="#" onclick="switchTab(2012)">2012</a>
+                            </li>
+                            <li id="t2011" class="nav-item">
+                                <a class="nav-link" href="#" onclick="switchTab(2011)">2011</a>
+                            </li>
+                            <li id="t2010" class="nav-item">
+                                <a class="nav-link" href="#" onclick="switchTab(2010)">2010</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+            <div class="col">
+                <nav id="viewbar" class="navbar navbar-expand-lg navbar-light text-right">
+                    <ul class="navbar-nav ml-auto text-right mt-2 mt-lg-0 font-weight-bold">
+                        <li id="vMap" class="nav-item active">
+                            <a class="nav-link" href="#" onclick="switchView('Map')">Map</a>
+                        </li>
+                        <li id="vBar" class="nav-item">
+                            <a class="nav-link" href="#" onclick="switchView('Bar')">Bar</a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
         <div class="container-fluid">
-
         </div>
         <script src="js/scripts.js"></script>
     </body>
