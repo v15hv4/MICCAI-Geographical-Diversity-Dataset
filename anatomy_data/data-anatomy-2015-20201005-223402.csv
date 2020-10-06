@@ -1,0 +1,264 @@
+Year,Title
+2015,Automatic Segmentation of Renal Compartments in DCE-MRI Images
+2015,Harmonizing Diffusion MRI Data Across Multiple Sites and Scanners
+2015,Track Filtering via Iterative Correction of TDI Topology
+2015,Novel Single and Multiple Shell Uniform Sampling Schemes for Diffusion MRI Using Spherical Codes
+2015,q-Space Deep Learning for Twelve-Fold Shorter and Model-Free Diffusion MRI Scans
+2015,A Machine Learning Based Approach to Fiber Tractography Using Classifier Voting
+2015,Symmetric Wiener Processes for Probabilistic Tractography and Connectivity Estimation
+2015,An Iterated Complex Matrix Approach for Simulation and Analysis of Diffusion MRI Processes
+2015,Prediction of Motor Function in Very Preterm Infants Using Connectome Features and Local Synthetic Instances
+2015,Segmenting Kidney DCE-MRI Using 1
+2015,Comparison of Stochastic and Variational Solutions to ASL fMRI Data Analysis
+2015,Prediction of CT Substitutes from MR Images Based on Local Sparse Correspondence Combination
+2015,Robust Automated White Matter Pathway Reconstruction for Large Studies
+2015,Exploiting the Phase in Diffusion MRI for Microstructure Recovery: Towards Axonal Tortuosity via Asymmetric Diffusion Processes
+2015,Sparse Bayesian Inference of White Matter Fiber Orientations from Compressed Multi-resolution Diffusion MRI
+2015,Classification of MRI under the Presence of Disease Heterogeneity using Multi-Task Learning: Application to Bipolar Disorder
+2015,Fiber Connection Pattern-Guided Structured Sparse Representation of Whole-Brain fMRI Signals for Functional Network Inference
+2015,Joint Estimation of Hemodynamic Response Function and Voxel Activation in Functional MRI Data
+2015,Quantifying Microstructure in Fiber Crossings with Diffusional Kurtosis
+2015,Which Manifold Should be Used for Group Comparison in Diffusion Tensor Imaging?
+2015,Convex Non-negative Spherical Factorization of Multi-Shell Diffusion-Weighted Images
+2015,Tensorial Spherical Polar Fourier Diffusion MRI with Optimal Dictionary Learning
+2015,Diffusion Compartmentalization Using Response Function Groups with Cardinality Penalization
+2015,V-Bundles: Clustering Fiber Trajectories from Diffusion MRI in Linear Time
+2015,Assessment of Mean Apparent Propagator-Based Indices as Biomarkers of Axonal Remodeling after Stroke
+2015,Integrating Multimodal Priors in Predictive Models for the Functional Characterization of Alzheimer's Disease
+2015,Simultaneous Denoising and Registration for Accurate Cardiac Diffusion Tensor Reconstruction from MRI
+2015,Iterative Subspace Screening for Rapid Sparse Estimation of Brain Tissue Microstructural Properties
+2015,Elucidating Intravoxel Geometry in Diffusion-MRI: Asymmetric Orientation Distribution Functions (AODFs) Revealed by a Cone Model
+2015,Modeling Task FMRI Data via Supervised Stochastic Coordinate Coding
+2015,Autonomous Ultrasound-Guided Tissue Dissection
+2015,A Compact Retinal-Surgery Telemanipulator that Uses Disposable Instruments
+2015,Surgical Tool Tracking and Pose Estimation in Retinal Microsurgery
+2015,Direct Calibration of a Laser Ablation System in the Projective Voltage Space
+2015,Surrogate-Driven Estimation of Respiratory Motion and Layers in X-Ray Fluoroscopy
+2015,Robust 5DOF Transesophageal Echo Probe Tracking at Fluoroscopic Frame Rates
+2015,Rigid Motion Compensation in Interventional C-arm CT Using Consistency Measure on Projection Data
+2015,"Hough Forests for Real-Time, Automatic Device Localization in Fluoroscopic Images: Application to TAVR"
+2015,Hybrid Utrasound and MRI Acquisitions for High-Speed Imaging of Respiratory Organ Motion
+2015,A Portable Intra-Operative Framework Applied to Distal Radius Fracture Surgery
+2015,Image Based Surgical Instrument Pose Estimation with Multi-class Labelling and Optical Flow
+2015,Adaption of 3D Models to 2D X-Ray Images during Endovascular Abdominal Aneurysm Repair
+2015,Projection-Based Phase Features for Localization of a Needle Tip in 2D Curvilinear Ultrasound
+2015,Inertial Measurement Unit for Radiation-Free Navigated Screw Placement in Slipped Capital Femoral Epiphysis Surgery
+2015,Pictorial Structures on RGB-D Images for Human Pose Estimation in the Operating Room
+2015,Interventional Photoacoustic Imaging of the Human Placenta with Ultrasonic Tracking for Minimally Invasive Fetal Surgeries
+2015,Automated Segmentation of Surgical Motion for Performance Analysis and Feedback
+2015,Vision-Based Intraoperative Cone-Beam CT Stitching for Non-overlapping Volumes
+2015,Visibility Map: A New Method in Evaluation Quality of Optical Colonoscopy
+2015,Tissue Surface Reconstruction Aided by Local Normal Information Using a Self-calibrated Endoscopic Structured Light System
+2015,Surgical Augmented Reality with Topological Changes
+2015,Towards an Efficient Computational Framework for Guiding Surgical Resection through Intra-operative Endo-microscopic Pathology
+2015,Automated Assessment of Surgical Skills Using Frequency Analysis
+2015,Robust Live Tracking of Mitral Valve Annulus for Minimally-Invasive Intervention Guidance
+2015,Motion-Aware Mosaicing for Confocal Laser Endomicroscopy
+2015,A Registration Approach to Endoscopic Laser Speckle Contrast Imaging for Intrauterine Visualisation of Placental Vessels
+2015,Marker-Less AR in the Hybrid Room Using Equipment Detection for Camera Relocalization
+2015,Hybrid Retargeting for High-Speed Targeted Optical Biopsies
+2015,Visual Force Feedback for Hand-Held Microsurgical Instruments
+2015,Automated Three-Piece Digital Dental Articulation
+2015,A System for MR-Ultrasound Guidance during Robot-Assisted Laparoscopic Radical Prostatectomy
+2015,Automatic Fetal Ultrasound Standard Plane Detection Using Knowledge Transferred Recurrent Neural Networks
+2015,Automatic Localization and Identification of Vertebrae in Spine CT via a Joint Learning Model with Deep Neural Networks
+2015,Identification of Cerebral Small Vessel Disease Using Multiple Instance Learning
+2015,Why Does Synthesized Data Improve Multi-sequence Classification?
+2015,Label Stability in Multiple Instance Learning
+2015,"Spectral Forests: Learning of Surface Data, Application to Cortical Parcellation"
+2015,DeepOrgan: Multi-level Deep Convolutional Networks for Automated Pancreas Segmentation
+2015,3D Deep Learning for Efficient and Robust Landmark Detection in Volumetric Data
+2015,A Hybrid of Deep Network and Hidden Markov Model for MCI Identification with Resting-State fMRI
+2015,Combining Unsupervised Feature Learning and Riesz Wavelets for Histopathology Image Representation: Application to Identifying Anaplastic Medulloblastoma
+2015,Automatic Coronary Calcium Scoring in Cardiac CT Angiography Using Convolutional Neural Networks
+2015,A Random Riemannian Metric for Probabilistic Shortest-Path Tractography
+2015,Deep Learning and Structured Prediction for the Segmentation of Mass in Mammograms
+2015,Learning Tensor-Based Features for Whole-Brain fMRI Classification
+2015,Prediction of Trabecular Bone Anisotropy from Quantitative Computed Tomography Using Supervised Learning and a Novel Morphometric Feature Descriptor
+2015,Automatic Diagnosis of Ovarian Carcinomas via Sparse Multiresolution Tissue Representation
+2015,Scale-Adaptive Forest Training via an Efficient Feature Sampling Scheme
+2015,Multiple Instance Cancer Detection by Boosting Regularised Trees
+2015,Uncertainty-Driven Forest Predictors for Vertebra Localization and Segmentation
+2015,Who Is Talking to Whom: Synaptic Partner Detection in Anisotropic Volumes of Insect Brain
+2015,Direct and Simultaneous Four-Chamber Volume Estimation by Multi-Output Regression
+2015,Cross-Domain Synthesis of Medical Images Using Efficient Location-Sensitive Deep Network
+2015,Grouping Total Variation and Sparsity: Statistical Learning with Segmenting Penalties
+2015,Scandent Tree: A Random Forest Learning Method for Incomplete Multimodal Datasets
+2015,Disentangling Disease Heterogeneity with Max-Margin Multiple Hyperplane Classifier
+2015,Marginal Space Deep Learning: Efficient Architecture for Detection in Volumetric Image Data
+2015,Nonlinear Regression on Riemannian Manifolds and Its Applications to Neuro-Image Analysis
+2015,Computer-Aided Detection and Quantification of Intracranial Aneurysms
+2015,Discriminative Feature Selection for Multiple Ocular Diseases Classification by Sparse Induced Graph Regularized Group Lasso
+2015,Detection of Glands and Villi by Collaboration of Domain Knowledge and Deep Learning
+2015,Minimum S-Excess Graph for Segmenting and Tracking Multiple Borders with HMM
+2015,Automatic Artery-Vein Separation from Thoracic CT Images Using Integer Programming
+2015,Automatic Dual-View Mass Detection in Full-Field Digital Mammograms
+2015,Leveraging Mid-Level Semantic Boundary Cues for Automated Lymph Node Detection
+2015,Computer-Aided Pulmonary Embolism Detection Using a Novel Vessel-Aligned Multi-planar Image Representation and Convolutional Neural Networks
+2015,Ultrasound-Based Detection of Prostate Cancer Using Automatic Feature Selection with Deep Belief Networks
+2015,MCI Identification by Joint Learning on Multiple MRI Data
+2015,Medical Image Retrieval Using Multi-graph Learning for MCI Diagnostic Assistance
+2015,Regenerative Random Forest with Automatic Feature Selection to Detect Mitosis in Histopathological Breast Cancer Images
+2015,HoTPiG: A Novel Geometrical Feature for Vessel Morphometry and Its Application to Cerebral Aneurysm Detection
+2015,Robust Segmentation of Various Anatomies in 3D Ultrasound Using Hough Forests and Learned Data Representations
+2015,Improved Parkinson's Disease Classification from Diffusion MRI Data by Fisher Vector Descriptors
+2015,Automated Shape and Texture Analysis for Detection of Osteoarthritis from Radiographs of the Knee
+2015,Hashing Forests for Morphological Search and Retrieval in Neuroscientific Image Databases
+2015,Computer-Aided Infarction Identification from Cardiac CT Images: A Biomechanical Approach with SVM
+2015,Automatic Graph-Based Localization of Cochlear Implant Electrodes in CT
+2015,Towards Non-invasive Image-Based Early Diagnosis of Autism
+2015,Identifying Connectome Module Patterns via New Balanced Multi-graph Normalized Cut
+2015,Semantic 3-D Labeling of Ear Implants Using a Global Parametric Transition Prior
+2015,Learning the Correlation Between Images and Disease Labels Using Ambiguous Learning
+2015,Longitudinal Analysis of Brain Recovery after Mild Traumatic Brain Injury Based on Groupwise Consistent Brain Network Clusters
+2015,Dictionary Learning Based Image Descriptor for Myocardial Registration of CP-BOLD MR
+2015,Registration of Color and OCT Fundus Images Using Low-dimensional Step Pattern Analysis
+2015,Estimating Patient Specific Templates for Pre-operative and Follow-Up Brain Tumor Registration
+2015,Topography-Based Registration of Developing Cortical Surfaces in Infants Using Multidirectional Varifold Representation
+2015,A Liver Atlas Using the Special Euclidean Group
+2015,"Multi-scale and Multimodal Fusion of Tract-Tracing, Myelin Stain and DTI-derived Fibers in Macaque Brains"
+2015,Space-Frequency Detail-Preserving Construction of Neonatal Brain Atlases
+2015,Mid-Space-Independent Symmetric Data Term for Pairwise Deformable Image Registration
+2015,A 2D-3D Registration Framework for Freehand TRUS-Guided Prostate Biopsy
+2015,Unsupervised Free-View Groupwise Segmentation for M
+2015,Uncertainty Quantification for LDDMM Using a Low-Rank Hessian Approximation
+2015,A Stochastic Quasi-Newton Method for Non-Rigid Image Registration
+2015,Locally Orderless Registration for Diffusion Weighted Images
+2015,Predicting Activation Across Individuals with Resting-State Functional Connectivity Based Multi-Atlas Label Fusion
+2015,Crossing-Lines Registration for Direct Electromagnetic Navigation
+2015,A Robust Outlier Elimination Approach for Multimodal Retina Image Registration
+2015,Estimating Large Lung Motion in COPD Patients by Symmetric Regularised Correspondence Fields
+2015,Combining Transversal and Longitudinal Registration in IVUS Studies
+2015,Interpolation and Averaging of Multi-Compartment Model Images
+2015,Structured Decision Forests for Multi-modal Ultrasound Image Registration
+2015,A Hierarchical Bayesian Model for Multi-Site Diffeomorphic Image Atlases
+2015,Distance Networks for Morphological Profiling and Characterization of DICCCOL Landmarks
+2015,Which Metrics Should Be Used in Non-linear Registration Evaluation?
+2015,Illustrative Visualization of Vascular Models for Static 2D Representations
+2015,Perfusion Paths: Inference of Voxelwise Blood Flow Trajectories in CT Perfusion
+2015,Automatic Prostate Brachytherapy Preplanning Using Joint Sparse Analysis
+2015,Bayesian Personalization of Brain Tumor Growth Model
+2015,Learning Patient-Specific Lumped Models for Interactive Coronary Blood Flow Simulations
+2015,Vito - A Generic Agent for Multi-physics Model Personalization: Application to Heart Modeling
+2015,Database-Based Estimation of Liver Deformation under Pneumoperitoneum for Surgical Image-Guidance and Simulation
+2015,Computational Sonography
+2015,Hierarchical Shape Distributions for Automatic Identification of 3D Diastolic Vortex Rings from 4D Flow MRI
+2015,Robust CT Synthesis for Radiotherapy Planning: Application to the Head and Neck Region
+2015,Mean Aneurysm Flow Amplitude Ratio Comparison between DSA and CFD
+2015,Application of L0-Norm Regularization to Epicardial Potential Reconstruction
+2015,MRI-Based Lesion Profiling of Epileptogenic Cortical Malformations
+2015,Patient-specific 3D Ultrasound Simulation Based on Convolutional Ray-tracing and Appearance Optimization
+2015,Robust Transmural Electrophysiological Imaging: Integrating Sparse and Dynamic Physiological Models into ECG-Based Inference
+2015,Estimating Biophysical Parameters from BOLD Signals through Evolutionary-Based Optimization
+2015,Radiopositive Tissue Displacement Compensation for SPECT-guided Surgery
+2015,A Partial Domain Approach to Enable Aortic Flow Simulation Without Turbulent Modeling
+2015,Flexible Reconstruction and Correction of Unpredictable Motion from Stacks of 2D Images
+2015,Efficient Preconditioning in Joint Total Variation Regularized Parallel MRI Reconstruction
+2015,Accessible Digital Ophthalmoscopy Based on Liquid-Lens Technology
+2015,"Estimate, Compensate, Iterate: Joint Motion Estimation and Compensation in 4-D Cardiac C-arm Computed Tomography"
+2015,Robust Prediction of Clinical Deep Brain Stimulation Target Structures via the Estimation of Influential High-Field MR Atlases
+2015,RF Ultrasound Distribution-Based Confidence Maps
+2015,Prospective Prediction of Thin-Cap Fibroatheromas from Baseline Virtual Histology Intravascular Ultrasound Data
+2015,Cooperative Robotic Gamma Imaging: Enhancing US-guided Needle Biopsy
+2015,Bayesian Tomographic Reconstruction Using Riemannian MCMC
+2015,A Landmark-Based Approach for Robust Estimation of Exposure Index Values in Digital Radiography
+2015,Accelerated Dynamic MRI Reconstruction with Total Variation and Nuclear Norm Regularization
+2015,Robust PET Motion Correction Using Non-local Spatio-temporal Priors
+2015,Subject-specific Models for the Analysis of Pathological FDG PET Data
+2015,Hierarchical Reconstruction of 7T-like Images from 3T MRI Using Multi-level CCA and Group Sparsity
+2015,Robust Spectral Denoising for Water-Fat Separation in Magnetic Resonance Imaging
+2015,Scale Factor Point Spread Function Matching: Beyond Aliasing in Image Resampling
+2015,Analytic Quantification of Bias and Variance of Coil Sensitivity Profile Estimators for Improved Image Reconstruction in MRI
+2015,Mobile C-arm 3D Reconstruction in the Presence of Uncertain Geometry
+2015,Fast Preconditioning for Accelerated Multi-contrast MRI Reconstruction
+2015,Deep Convolutional Encoder Networks for Multiple Sclerosis Lesion Segmentation
+2015,Unsupervised Myocardial Segmentation for Cardiac MRI
+2015,Multimodal Cortical Parcellation Based on Anatomical and Functional Brain Connectivity
+2015,Slic-Seg: Slice-by-Slice Segmentation Propagation of the Placenta in Fetal MRI Using One-Plane Scribbles and Online Learning
+2015,GPSSI: Gaussian Process for Sampling Segmentations of Images
+2015,Multi-Level Parcellation of the Cerebral Cortex Using Resting-State fMRI
+2015,Interactive Multi-organ Segmentation Based on Multiple Template Deformation
+2015,Segmentation of Infant Hippocampus Using Common Feature Representations Learned for Multimodal Longitudinal Data
+2015,Measuring Cortical Neurite-Dispersion and Perfusion in Preterm-Born Adolescents Using Multi-modal MRI
+2015,Interactive Whole-Heart Segmentation in Congenital Heart Disease
+2015,Automatic 3D US Brain Ventricle Segmentation in Pre-Term Neonates Using Multi-phase Geodesic Level-Sets with Shape Prior
+2015,Multiple Surface Segmentation Using Truncated Convex Priors
+2015,Statistical Power in Image Segmentation: Relating Sample Size to Reference Standard Quality
+2015,Joint Learning of Image Regressor and Classifier for Deformable Segmentation of CT Pelvic Organs
+2015,Corpus Callosum Segmentation in MS Studies Using Normal Atlases and Optimal Hybridization of Extrinsic and Intrinsic Image Cues
+2015,Brain Tissue Segmentation Based on Diffusion MRI Using l
+2015,A Latent Source Model for Patch-Based Image Segmentation
+2015,Multi-organ Segmentation Using Shape Model Guided Local Phase Analysis
+2015,Filling Large Discontinuities in 3D Vascular Networks Using Skeleton- and Intensity-Based Information
+2015,A Continuous Flow-Maximisation Approach to Connectivity-Driven Cortical Parcellation
+2015,A 3D Fractal-Based Approach towards Understanding Changes in the Infarcted Heart Microvasculature
+2015,Segmenting the Uterus in Monocular Laparoscopic Images without Manual Input
+2015,Progressive Label Fusion Framework for Multi-atlas Segmentation by Dictionary Evolution
+2015,Multi-atlas Based Segmentation Editing with Interaction-Guided Constraints
+2015,Improving Convenience and Reliability of 5-ALA-Induced Fluorescent Imaging for Brain Tumor Surgery
+2015,Analysis of High-throughput Microscopy Videos: Catching Up with Cell Dynamics
+2015,Neutrophils Identification by Deep Learning and Voronoi Diagram of Clusters
+2015,U-Net: Convolutional Networks for Biomedical Image Segmentation
+2015,Co-restoring Multimodal Microscopy Images
+2015,A 3D Primary Vessel Reconstruction Framework with Serial Microscopy Images
+2015,Adaptive Co-occurrence Differential Texton Space for HEp-2 Cells Classification
+2015,Learning to Segment: Training Hierarchical Segmentation under a Topological Loss
+2015,You Should Use Regression to Detect Cells
+2015,A Hybrid Approach for Segmentation and Tracking of 
+2015,Fast Background Removal in 3D Fluorescence Microscopy Images Using One-Class Learning
+2015,Motion Representation of Ciliated Cell Images with Contour-Alignment for Automated CBF Estimation
+2015,Multimodal Dictionary Learning and Joint Sparse Representation for HEp-2 Cell Classification
+2015,Cell Event Detection in Phase-Contrast Microscopy Sequences from Few Annotations
+2015,Robust Muscle Cell Quantification Using Structured Edge Detection and Hierarchical Segmentation
+2015,Fast Cell Segmentation Using Scalable Sparse Manifold Learning and Affine Transform-Approximated Active Contour
+2015,Restoring the Invisible Details in Differential Interference Contrast Microscopy Images
+2015,A Novel Cell Detection Method Using Deep Convolutional Neural Network and Maximum-Weight Independent Set
+2015,Beyond Classification: Structured Regression for Robust Cell Detection Using Convolutional Neural Network
+2015,Joint Kernel-Based Supervised Hashing for Scalable Histopathological Image Analysis
+2015,Deep Voting: A Robust Approach Toward Nucleus Localization in Microscopy Images
+2015,Robust Cell Detection and Segmentation in Histopathological Images Using Sparse Reconstruction and Stacked Denoising Autoencoders
+2015,Automatic in Vivo Cell Detection in MRI
+2015,Automatic Vessel Segmentation from Pulsatile Radial Distension
+2015,A Sparse Bayesian Learning Algorithm for Longitudinal Image Data
+2015,Descriptive and Intuitive Population-Based Cardiac Motion Analysis via Sparsity Constrained Tensor Decomposition
+2015,Liver Motion Estimation via Locally Adaptive Over-Segmentation Regularization
+2015,"Motion-Corrected, Super-Resolution Reconstruction for High-Resolution 3D Cardiac Cine MRI"
+2015,Motion Estimation of Common Carotid Artery Wall Using a H
+2015,Gated-tracking: Estimation of Respiratory Motion with Confidence
+2015,Solving Logistic Regression with Group Cardinality Constraints for Time Series Analysis
+2015,Spatiotemporal Parsing of Motor Kinematics for Assessing Stroke Recovery
+2015,Longitudinal Analysis of Pre-term Neonatal Brain Ventricle in Ultrasound Images Based on Convex Optimization
+2015,Multi-GPU Reconstruction of Dynamic Compressed Sensing MRI
+2015,Prospective Identification of CRT Super Responders Using a Motion Atlas and Random Projection Ensemble Learning
+2015,Motion Compensated Abdominal Diffusion Weighted MRI by Simultaneous Image Registration and Model Estimation (SIR-ME)
+2015,Fast Reconstruction of Accelerated Dynamic MRI Using Manifold Kernel Regression
+2015,Predictive Modeling of Anatomy with Genetic and Clinical Data
+2015,Joint Diagnosis and Conversion Time Prediction of Progressive Mild Cognitive Impairment (pMCI) Using Low-Rank Subspace Clustering and Matrix Completion
+2015,Learning with Heterogeneous Data for Longitudinal Studies
+2015,Parcellation of Infant Surface Atlas Using Developmental Trajectories of Multidimensional Cortical Attributes
+2015,Graph-Based Motion-Driven Segmentation of the Carotid Atherosclerotique Plaque in 2D Ultrasound Sequences
+2015,Cortical Surface-Based Construction of Individual Structural Network with Application to Early Brain Development Study
+2015,NEOCIVET: Extraction of Cortical Surface and Analysis of Neonatal Gyrification Using a Modified CIVET Pipeline
+2015,Learning-Based Shape Model Matching: Training Accurate Models with Minimal Manual Input
+2015,Scale and Curvature Invariant Ridge Detector for Tortuous and Fragmented Structures
+2015,Boosting Hand-Crafted Features for Curvilinear Structure Segmentation by Learning Context Filters
+2015,Kernel-Based Analysis of Functional Brain Connectivity on Grassmann Manifold
+2015,A Steering Engine: Learning 3-D Anatomy Orientation Using Regression Forests
+2015,Automated Localization of Fetal Organs in MRI Using Random Forests with Steerable Features
+2015,A Statistical Model for Smooth Shapes in Kendall Shape Space
+2015,A Cross Saliency Approach to Asymmetry-Based Tumor Detection
+2015,Grey Matter Sublayer Thickness Estimation in the Mouse Cerebellum
+2015,Unregistered Multiview Mammogram Analysis with Pre-trained Deep Learning Models
+2015,Automatic Craniomaxillofacial Landmark Digitization via Segmentation-Guided Partially-Joint Regression Forest Model
+2015,Automatic Feature Learning for Glaucoma Detection Based on Deep Learning
+2015,Fast Automatic Vertebrae Detection and Localization in Pathological CT Scans - A Deep Learning Approach
+2015,Guided Random Forests for Identification of Key Fetal Anatomy and Image Categorization in Ultrasound Scans
+2015,Dempster-Shafer Theory Based Feature Selection with Sparse Constraint for Outcome Prediction in Cancer Therapy
+2015,Disjunctive Normal Shape and Appearance Priors with Applications to Image Segmentation
+2015,Positive Delta Detection for Alpha Shape Segmentation of 3D Ultrasound Images of Pathologic Kidneys
+2015,Non-local Atlas-guided Multi-channel Forest Learning for Human Brain Labeling
+2015,Model Criticism for Regression on the Grassmannian
+2015,Structural Edge Detection for Cardiovascular Modeling
+2015,Sample Size Estimation for Outlier Detection
+2015,Multi-scale Heat Kernel Based Volumetric Morphology Signature
+2015,Structural Brain Mapping
