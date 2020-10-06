@@ -1,3 +1,13 @@
+function getCurrentTab() {
+    var activeTab = document.getElementById("tabbar").getElementsByClassName("active")[0];
+    console.log(activeTab.id);
+}
+
+function getCurrentView() {
+    var activeView = document.getElementById("viewbar").getElementsByClassName("active")[0];
+    console.log(activeView.id);
+}
+
 function switchTab(year) {
     var activeTab = document.getElementById("tabbar").getElementsByClassName("active")[0];
     activeTab.classList.remove("active");
