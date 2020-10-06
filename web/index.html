@@ -4,17 +4,19 @@
         <meta charset="utf-8">
         <title>MICCAI Hackathon 2020</title>
         <link rel="stylesheet" href="css/styles.css?v=1.0">
+        <link href="https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@700&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+        <script src="js/scripts.js"></script>
     </head>
-    <body class="container-fluid">
-        <nav class="navbar font-weight-bold navbar-expand-md navbar-dark bg-info fixed-top py-3">
+    <body class="container-fluid" onload="getPlotSrc()">
+        <nav class="navbar font-weight-bold navbar-expand-md navbar-dark bg-danger fixed-top py-3">
             <a class="navbar-brand" href="#"> MICCAI Hackathon 2020 </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"/>
             </button>
             <div class="collapse navbar-collapse" id="navbarText">
                 <span class="navbar-text ml-auto mr-2">
-                    Diversity
+                    DIVERSITY
                 </span>
             </div>
         </nav>
@@ -73,8 +75,12 @@
                 </nav>
             </div>
         </div>
-        <div class="container-fluid">
+        <div class="container-fluid" >
+            <iframe
+                id="plot"
+                frameborder="0"
+                class="plot-iframe"
+            />
         </div>
-        <script src="js/scripts.js"></script>
     </body>
 </html>

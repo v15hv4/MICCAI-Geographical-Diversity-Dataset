@@ -1,3 +1,14 @@
+*,
+html {
+    font-family: "Red Hat Display", sans-serif;
+    font-size: 18px;
+}
+
 body {
     padding-top: 70px;
+}
+
+.plot-iframe {
+    height: 80vh;
+    width: 95vw;
 }
