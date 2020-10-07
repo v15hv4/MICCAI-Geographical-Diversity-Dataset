@@ -9,6 +9,13 @@ body {
 }
 
 .plot-iframe {
-    height: 80vh;
+    height: 75vh;
     width: 95vw;
+}
+
+.no-data {
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
