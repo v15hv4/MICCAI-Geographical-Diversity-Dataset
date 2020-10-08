@@ -32,5 +32,6 @@ function getPlotSrc() {
     var plot = document.getElementById("plot");
     const year = getCurrentTab().substring(1).toLowerCase();
     const view = getCurrentView().substring(1).toLowerCase();
-    plot.src = `plots/${year}-${view}.html`;
+    if (year == "0") plot.src = `plots/summary.html`;
+    else plot.src = `plots/${year}-${view}.html`;
 }
